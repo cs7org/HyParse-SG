@@ -1,0 +1,2 @@
+EventId,EventTemplate,Occurrences
+fd937509,DATASET=SWAT EVENT=PROCESS_STATE STATUS=Attack FIT101=<*>.<*> LIT101=<*>.<*> MV101=<*> P101=<*> P102=<*> AIT201=<*>.<*> AIT202=<*>.<*> AIT203=<*>.<*> FIT201=<*>.<*> DPIT301=<*>.<*> AIT503=<*>.<*>,1000
