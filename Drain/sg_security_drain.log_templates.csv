@@ -1,0 +1,2 @@
+EventId,EventTemplate,Occurrences
+81e34d59,DATASET=SG_SECURITY <*> <*> <*> <*> <*> ATTACK_DETECTED=<*> VOLTAGE=<*>.<*> FREQUENCY=<*>.<*> POWER_FLOW=<*>.<*> REACTIVE_POWER=<*>.<*> COMM_SIZE=<*> THREAT_PROB=<*>.<*> RISK_SCORE=<*>.<*> UNCERTAINTY=<*>.<*> TEMPORAL_ENTROPY=<*>.<*> SPECTRAL_ENERGY=<*>.<*> SPATIAL_CORR=<*>.<*>,1000
